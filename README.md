@@ -5,7 +5,6 @@ My name is Alhuft, I am a programmer from <b>Indonesia</b>. I focus on <b><i>mob
 freelance project work in office, school and other application development. And sometimes im use laravel to make backend for project by request client.
 
 #### BIO 💬
-- :sunglasses: 24 y.o man 
 - :smoking: Smoke its bad for lungs 
 - :zzz: Sleep 8 hours per day 
 - :stew: Eat 3 times a day 
